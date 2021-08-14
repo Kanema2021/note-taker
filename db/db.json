@@ -1,53 +1,6 @@
 [
   {
-    "title": "Note Taker",
-    "text": "Note Taking Application - Homework 11"
-  },
-  {
-    "title": "Note 1",
-    "text": "Must remember to get haircut",
-    "id": 0
-  },
-  {
-    "title": "Note Taker",
-    "text": "Note Taking Application - Homework 11"
-  },
-  {
-    "title": "Note 1",
-    "text": "Must remember to get haircut",
-    "id": 0
-  },
-  {
-    "title": "Note 1 ",
-    "text": "new note",
-    "id": 0
-  },
-  {
-    "title": "Note Taker",
-    "text": "Note Taking Application - Homework 11"
-  },
-  {
-    "title": "Note 1",
-    "text": "Must remember to get haircut",
-    "id": 0
-  },
-  {
-    "title": "Note Taker",
-    "text": "Note Taking Application - Homework 11"
-  },
-  {
-    "title": "Note 1",
-    "text": "Must remember to get haircut",
-    "id": 0
-  },
-  {
-    "title": "Note 1 ",
-    "text": "new note",
-    "id": 0
-  },
-  {
-    "title": "jjjdjdjdjdfff",
-    "text": "ddddddd",
-    "id": 0
+      "title":"Test Title",
+      "text":"Test text"
   }
 ]

@@ -47,7 +47,10 @@ This homework is graded based on the following criteria:
 
   * Application must be deployed to Heroku.
 
+https://user-images.githubusercontent.com/82725636/129500678-3a99b70c-8bea-4634-8d40-67e000d9a0c1.mov
+
   https://github.com/Kanema2021/note-taker
+  https://dashboard.heroku.com/apps/note-taker-karen-marting
 
 
 

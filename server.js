@@ -23,7 +23,7 @@ app.post("/api/notes", (req, res) => {
   note.id = i + 1;
 });
 
-  fs.writeFile('.db/db.json', JSON.stringify(notes), function() {
+  fs.writeFile('./db/db.json', JSON.stringify(notes), function() {
     res.status(200).send(notes);
   });
 })
